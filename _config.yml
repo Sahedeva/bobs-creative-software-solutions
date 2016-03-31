@@ -9,9 +9,7 @@
 title: Bob's Creative Software Solutions
 email: robertgweilbaecher@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Started on January 1st, 2014 to find solutions to complex problems ranging from the integration of healthcare and technology to creating calendars to set up a training regimen for an upcomming marathon.
 baseurl: "/bobs-creative-software-solutions/" # the subpath of your site, e.g. /blog
 url: "http://sahedeva.github.io" # the base hostname & protocol for your site
 twitter_username: robertweilbaec1
